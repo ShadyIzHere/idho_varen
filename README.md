@@ -1,3 +1,3 @@
 # idho_varen
 
-A new Flutter project.
+A flutter mock up app for presentation and testing purposes.
